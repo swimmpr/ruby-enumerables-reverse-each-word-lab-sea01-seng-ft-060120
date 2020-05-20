@@ -1,1 +1,1 @@
-reverse_each_world
+reverse_each_world(string)
